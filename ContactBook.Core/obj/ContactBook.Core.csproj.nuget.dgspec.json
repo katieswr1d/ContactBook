@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AsusT\\RiderProjects\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj": {}
+    "C:\\Users\\AsusT\\Documents\\GitHub\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AsusT\\RiderProjects\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj": {
+    "C:\\Users\\AsusT\\Documents\\GitHub\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AsusT\\RiderProjects\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj",
+        "projectUniqueName": "C:\\Users\\AsusT\\Documents\\GitHub\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj",
         "projectName": "ContactBook.Core",
-        "projectPath": "C:\\Users\\AsusT\\RiderProjects\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj",
+        "projectPath": "C:\\Users\\AsusT\\Documents\\GitHub\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj",
         "packagesPath": "C:\\Users\\AsusT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AsusT\\RiderProjects\\ContactBook\\ContactBook.Core\\obj\\",
+        "outputPath": "C:\\Users\\AsusT\\Documents\\GitHub\\ContactBook\\ContactBook.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AsusT\\AppData\\Roaming\\NuGet\\NuGet.Config",
