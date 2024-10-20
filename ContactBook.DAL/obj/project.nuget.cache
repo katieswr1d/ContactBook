@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmy7FhZafR5WmV8fiqM5IvLQLAySemnWAmcpw4o7AZ9RrzhVMSV90xSFZqTzcTrNbTX+kkwjSufNZRtNuLlCJw==",
+  "dgSpecHash": "QGA+mg+t1SvvPaFo7jq3tDC7IpnQEKVp6ijVeerhSVeQeez7UzMxD9+3KaFgVURi1FZm0CEeunoHbk/EnTsByg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AsusT\\Documents\\GitHub\\ContactBook\\ContactBook.DAL\\ContactBook.DAL.csproj",
+  "projectFilePath": "C:\\Users\\AsusT\\RiderProjects\\ContactBook\\ContactBook.DAL\\ContactBook.DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

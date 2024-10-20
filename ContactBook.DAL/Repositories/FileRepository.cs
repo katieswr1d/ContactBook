@@ -11,8 +11,11 @@ public class FileRepository : IRepositoty
 
     public FileRepository()
     {
-
-        _contacts = JsonSerializer.Deserialize<List<Contact>>(File.ReadAllText("contacts.json")) ?? []; //считываем из файла и конвертируем в коллекцию;
+        if (!File.Exists("contacts.json"))
+        {
+            _contacts = [];
+        }
+        else _contacts = JsonSerializer.Deserialize<List<Contact>>(File.ReadAllText("contacts.json")); //считываем из файла и конвертируем в коллекцию;
         
     }
     public IEnumerable<Contact> ReadAll() //метод для чтения всех контактов

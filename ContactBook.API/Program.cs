@@ -73,12 +73,15 @@ class Program
                  
                  case "3":
                      var contact = new Contact();
+                     
                      Console.WriteLine("Введите имя контакта ");
                      var parameter = Console.ReadLine();
                      contact.FirstName = parameter!;
+                     
                      Console.WriteLine("Введите фамилию контакта ");
                      parameter = Console.ReadLine();
                      contact.LastName = parameter!;
+                     
                      Console.WriteLine("Введите email(0 если закончить) ");
                      parameter = Console.ReadLine();
                      while (parameter != "0")
