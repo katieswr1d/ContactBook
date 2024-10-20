@@ -1,0 +1,11 @@
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\bin\Debug\net8.0\ContactBook.Core.deps.json
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\bin\Debug\net8.0\ContactBook.Core.dll
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\bin\Debug\net8.0\ContactBook.Core.pdb
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\ContactBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\ContactBook.Core.AssemblyInfoInputs.cache
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\ContactBook.Core.AssemblyInfo.cs
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\ContactBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\ContactBook.Core.dll
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\refint\ContactBook.Core.dll
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\ContactBook.Core.pdb
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.Core\obj\Debug\net8.0\ref\ContactBook.Core.dll

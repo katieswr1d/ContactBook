@@ -1,0 +1,15 @@
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\bin\Debug\net8.0\ContactBook.DAL.deps.json
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\bin\Debug\net8.0\ContactBook.DAL.dll
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\bin\Debug\net8.0\ContactBook.DAL.pdb
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\bin\Debug\net8.0\ContactBook.Core.dll
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\bin\Debug\net8.0\ContactBook.Core.pdb
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactBook.DAL.csproj.AssemblyReference.cache
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactBook.DAL.AssemblyInfoInputs.cache
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactBook.DAL.AssemblyInfo.cs
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactB.023F02E0.Up2Date
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactBook.DAL.dll
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\refint\ContactBook.DAL.dll
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ContactBook.DAL.pdb
+C:\Users\AsusT\RiderProjects\ContactBook\ContactBook.DAL\obj\Debug\net8.0\ref\ContactBook.DAL.dll
