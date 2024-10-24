@@ -54,7 +54,7 @@ public class ContactService : IContactService
         {
             foreach (var phone in contact.PhoneNumber)
             {
-                if (phone.Value == phoneNumber) return true;
+                if (phone.Value == phoneNumber) return true; //phone.Value мы пишем по причине того, что phone это экземпляр класса PhoneNumber, который мы создали, а Value его свойство
             }
 
             return false;
