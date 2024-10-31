@@ -18,7 +18,7 @@ public class ContactService : IContactService
         _repository.Create(contact);
     }
 
-    public IEnumerable<Contact> ReadAll() //метод для получения данных из репозитория
+    public IEnumerable<Contact> ReadAll() //метод для чтения всех контактов (только читает он данные из какого-то "абстрактного места", то есть важно, чтобы метод ReadAll в сервисе контакты прочитал и не особо важно где он эти данные возьмёт (откуда прочитает))
     {
         return _repository.ReadAll();
     }
@@ -33,6 +33,23 @@ public class ContactService : IContactService
             contact.Email != null &&
             contact.Email.Any(mail => mail.Value == email));
     }
+
+    
+    public IEnumerable<Contact> FindByPhone(string phoneNumber)//м
+    {
+
+
+        return _repository.FilterContacts(contact =>
+        {
+            foreach (var phone in contact.PhoneNumber)
+            {
+                if (phone.Value == phoneNumber) return true; //phone.Value мы пишем по причине того, что phone это экземпляр класса PhoneNumber, который мы создали, а Value его свойство33
+            }
+
+            return false;
+        });
+    }
+
     public IEnumerable<Contact> FindByFirstName(string firstName)//метод для поиска по имени; возвращает отфильтрованный список контактов
     {
         return _repository.FilterContacts(contact =>
@@ -45,21 +62,6 @@ public class ContactService : IContactService
             string.Equals(contact.LastName, lastName, StringComparison.CurrentCultureIgnoreCase));
     }
 
-
-    public IEnumerable<Contact> FindByPhone(string phoneNumber)//метод для поиска по номеру телефона
-    {
-
-
-        return _repository.FilterContacts(contact =>
-        {
-            foreach (var phone in contact.PhoneNumber)
-            {
-                if (phone.Value == phoneNumber) return true; //phone.Value мы пишем по причине того, что phone это экземпляр класса PhoneNumber, который мы создали, а Value его свойство
-            }
-
-            return false;
-        });
-    }
 
     public IEnumerable<Contact> FindByEmail(string email)//метод для поиска по email
     {

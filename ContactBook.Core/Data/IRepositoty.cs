@@ -6,5 +6,5 @@ public interface IRepositoty
 {
     IEnumerable<Contact> ReadAll();
     IEnumerable<Contact> FilterContacts(Predicate<Contact> filter);
-    void Create(Contact contact);
+    Task Create(Contact contact);
 }
